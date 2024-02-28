@@ -1,9 +1,8 @@
 layout: post
-title: "Git-cheatsheet"
+title: "Git cheatsheet"
 date: 2024-01-18 15:12:00 -0000
-categories: CATEGORY-1 CATEGORY-2
+categories: cheatsheets basics git software-development
 
-# Header
 git clone https://gitsite.com/namespace/project \
 git add . \
 git status \
