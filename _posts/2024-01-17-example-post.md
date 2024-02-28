@@ -5,4 +5,3 @@ categories: CATEGORY-1 CATEGORY-2
 
 EXAMPLE POST
 # Header
-EDITED!!
